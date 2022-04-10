@@ -1,0 +1,18 @@
+{
+    "name": "apptimus/transaction",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Apptimus\\Transaction\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manojan Kanesathas",
+            "email": "manojan.mano@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "license": "MIT"
+}
